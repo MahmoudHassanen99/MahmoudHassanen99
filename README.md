@@ -1,7 +1,7 @@
 - 👋 Hi, I’m studying Computer Engineering, Tanta Unvinversity, Egypt.
-- ✨ I have good practical knowledge of python(NumPy, pandas, and matplotlib) and database fundamentals
-Also good in Excel and descriptive statistics.
 - 👀 I’m learning Data Engineering
+- ✨ I have good practical knowledge of python(NumPy, pandas, and matplotlib) and database fundamentals,
+- Also good in Excel and descriptive statistics.
 - 🌱 I have a passion for improving my skills and learning more and more.
 
 <!---
