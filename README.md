@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mahmoud who is studying Computer Engineering.
-- ✨ Learning Flask and Django.
+- ✨ Currently, I'm Learning Flask and Django.
 - 👀 I’m learning Data Engineering.
 - ✨ I have good practical knowledge of python(NumPy, pandas, and matplotlib) and database fundamentals,
 - Also good in Excel and descriptive statistics.
