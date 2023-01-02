@@ -1,4 +1,4 @@
-- 👋 Hi, I’m studying Computer Engineering.
+- 👋 Hi, I’m Mahmoud who is studying Computer Engineering.
 - ✨ Learning Flask and Django.
 - 👀 I’m learning Data Engineering.
 - ✨ I have good practical knowledge of python(NumPy, pandas, and matplotlib) and database fundamentals,
