@@ -1,11 +1,5 @@
-- 👋 Hi, I’m Mahmoud who is studying Computer Engineering.
-- ✨ Currently, I'm Learning Flask and Django.
-- 👀 I’m learning Data Engineering.
-- ✨ I have good practical knowledge of python(NumPy, pandas, and matplotlib) and database fundamentals,
-- Also good in Excel and descriptive statistics.
-- 🌱 I have a passion for improving my skills and learning more and more.
-
-<!---
-MahmoudHassanen99/MahmoudHassanen99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Greetings! I'm immersed in a love affair with data, driven by the eagerness to transform insights into impactful actions.
+- ✨ Passionate about Economics & Business, I aim to harmonize this passion with data-driven strategies.
+- 👀 Currently on a journey to master Machine Learning (ML) & Natural Language Processing (NLP) for cutting-edge problem-solving.
+- ✨ Proficient in Python, seasoned in database management, and skilled at painting vivid pictures with descriptive statistics.
+- 🌱 A perpetual learner, fueled by an unquenchable thirst for skill improvement and the expansion of knowledge horizons.
